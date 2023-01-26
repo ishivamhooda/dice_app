@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">a3_dice_app</string>
     <string name="_roll_txt">Roll</string>
+    <string name="image_description">image</string>
 </resources>
